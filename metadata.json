@@ -1,0 +1,6 @@
+{
+  "name": "ENTUDIO ProjectForge AI",
+  "description": "AI-powered engineering project assistant for converting ideas into structured project plans, system architectures, code, progress tracking, and technical documentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
